@@ -25,6 +25,7 @@
   
   <modules>
   	<module>minor-service</module>
+  	<module>minor-web</module
   </modules>
   
   <dependencyManagement>

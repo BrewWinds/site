@@ -13,6 +13,7 @@
   <groupId>com.minor.service</groupId>
   <artifactId>minor-service</artifactId>
   <name>minor-service</name>
+  <packaging>jar</packaging>
   <url>http://maven.apache.org</url>
 
   
