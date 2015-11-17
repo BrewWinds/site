@@ -1,4 +1,4 @@
-package org.minor.service;
+package com.minor.domain;
 
 /**
  * Hello world!
