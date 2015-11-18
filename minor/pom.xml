@@ -32,6 +32,12 @@
   <dependencyManagement>
   	 <dependencies>
   	 
+  	 		<dependency>
+				<groupId>com.minor.domain</groupId>
+				<artifactId>minor-domain</artifactId>
+				  <version>${project.version}</version>
+			</dependency>
+  	 
   	 		 <dependency>
                 <groupId>com.minor.service</groupId>
                 <artifactId>minor-service</artifactId>
