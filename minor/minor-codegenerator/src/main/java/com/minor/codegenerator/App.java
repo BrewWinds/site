@@ -1,4 +1,4 @@
-package com.minor.domain;
+package com.minor.codegenerator;
 
 /**
  * Hello world!

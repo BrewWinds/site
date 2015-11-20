@@ -27,6 +27,8 @@
   	<module>minor-service</module>
   	<module>minor-domain</module>
   	<module>minor-web</module>
+  	<module>minor-autocode</module>
+  	<module>minor-codegenerator</module>
   </modules>
   
   <dependencyManagement>
